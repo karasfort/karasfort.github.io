@@ -20,8 +20,8 @@ bluesky = 'https://bsky.app/profile/karasfort'
 
 
 [theme]
-showDarkModeToggle = true
-showSearchIcon = true
+showDarkModeToggle = false
+showSearchIcon = false
 showGoToTop = true
 darkModeColor = '#333333'
 lightModeColor = "white"
