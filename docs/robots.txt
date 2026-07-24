@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://karasfort.github.io/sitemap.xml
+Sitemap: https://karasfort.github.io/
