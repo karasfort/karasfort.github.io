@@ -1,0 +1,95 @@
+[homepage]
+onlyPostsInHomePage = false
+homePageLogo = false
+homePageCoverPath = 'headshot.jpg'
+homePageCoverTitle = "Hi! I'm Kara."
+homePageCoverTagLine = "I am a current PhD Candidate in Communication at The Ohio State University. I am a quantitative social scientist interested in how and why people like or believe certain evidence or information."
+homePageSummaryLength = 500
+homePagePostDate = false
+dateFormat = "2 Jan 2006"
+showSocialLinksHome = true
+
+[fonts]
+siteFont = "Georgia, UnifrakturMaguntia, serif"
+
+[social]
+x = 'https://x.com/kara_fort'
+linkedin = 'https://linkedin.com/in/karasfort'
+github = 'https://github.com/karasfort'
+bluesky = 'https://bsky.app/profile/karasfort'
+
+
+[theme]
+showDarkModeToggle = true
+showSearchIcon = true
+showGoToTop = true
+darkModeColor = '#333333'
+lightModeColor = "white"
+darkModeLinkColor = '#CCCCCC'
+lightModeLinkColor = '#70071c'
+heroSectionColor = 'white'
+darkHeroSectionColor = "black"
+lightModeButton = "#ba0c2f"
+lightModeButtonText = "#ffffff"
+lightModeButtonAlt = "transparent"
+lightModeButtonAltText = "#ba0c2f"
+darkModeButton = "#ba0c2f"
+darkModeButtonText = "#ffffff"
+darkModeButtonAlt = "transparent"
+darkModeButtonAltText = "#ba0c2f"
+
+
+[toc]
+numberingInTOC = false
+numberingInPost = false
+
+[posts]
+readingSpeed = 212
+showFrontMatter = true
+showDate = false
+showWordCount = false
+showAuthors = true
+showTags = true
+showCategories = true
+showReadingTime = false
+dateFormat = "2 Jan 2006"
+showTagCloud = false
+showCategoryCloud = false
+showAuthorCloud = false
+
+[rss]
+showRSS = false
+
+[about]
+showSocialLinksPage = true
+
+[sections]
+showDate = true
+showTags = false
+showCategories = true
+showAuthors = false
+showCoverImage = true
+showSummary = false
+showReadMore = false
+summaryLength = 500
+dateFormat = "2006-01-02"
+
+[slideshow]
+maxSize = 20
+
+[giscus]
+enable = false
+src = "https://giscus.app/client.js"
+dataRepo = ""
+dataRepoId = ""
+dataCategory = ""
+dataCategoryId = ""
+dataMapping = ""
+dataStrict = ""
+dataReactionsEnabled = ""
+dataEmitMetadata = ""
+dataInputPosition = ""
+dataTheme = ""
+dataLang = ""
+dataLoading = ""
+crossorigin = ""

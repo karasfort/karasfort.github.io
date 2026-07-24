@@ -1,0 +1,33 @@
+  [[main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+
+
+   [[main]]
+    name = 'About'
+    pageRef ='/pages/about/'
+    weight = 50 
+
+  [[main]]
+    name = 'CV'
+    url = '/files/ksf_cv_website.pdf'
+    weight = 60
+    params = {target = "_blank"} 
+    
+  [[main]]
+    name = 'Research'
+    pageRef = 'pages/research/'
+    weight = 70
+    
+  [[main]]
+    name = 'Teaching'
+    pageRef = 'pages/teaching/'
+    weight = 80
+    
+  [[main]]
+    name = 'Service'
+    pageRef = 'pages/service/'
+    weight = 90
+    
+  
