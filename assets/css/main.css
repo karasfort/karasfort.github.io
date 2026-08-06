@@ -1,10 +1,16 @@
 /* ============================================
    BASE STYLES
    ============================================ */
+@font-face {
+  font-family: 'OpenSans';
+  src: ('/fonts/OpenSans-Regular.tff') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
 
 body {
   color: #222;
-  font-family: Georgia, sans-serif;
+  font-family: 'OpenSans', sans-serif;
   line-height: 1.5;
   margin: 1rem;
   max-width: 768px;
@@ -2030,7 +2036,7 @@ body.dark-mode .hero-section {
 
 /* Stats Section */
 .stats-section {
-  background: var(--bg-secondary);
+  background: #dfe3e5;
   max-width: 100%;
   margin-top: 3rem;
   border-radius: 5rem;

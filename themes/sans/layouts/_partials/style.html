@@ -1,9 +1,20 @@
 <style>
-:root {
-  --site-font: {{ .Site.Params.fonts.siteFont | default "Georgia, serif" }};
-        /* Background Colors */
-  --light-color: {{ .Site.Params.theme.lightModeColor | default "white" }};
-  --dark-color: {{ .Site.Params.theme.darkModeColor | default "#333333" }};
+  /* 1. Add your custom font declaration here */
+  @font-face {
+    font-family: 'OpenSans';
+    src: url('/fonts/OpenSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  :root {
+    /* 2. Change the font variable to point to your new font */
+    --site-font: 'OpenSans', sans-serif;
+
+    /* 3. LEAVE THESE ALONE so your site background colors don't break */
+    --light-color: {{ .Site.Params.theme.lightModeColor | default "white" }};
+    --dark-color: {{ .Site.Params.theme.darkModeColor | default "#333333" }};
+
       
       /* Link Colors */
    --light-link-color: {{ .Site.Params.theme.lightModeLinkColor | default "#00e" }};    --dark-link-color: {{ .Site.Params.theme.darkModeLinkColor | default "#CCCCCC" }};

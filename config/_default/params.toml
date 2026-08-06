@@ -10,7 +10,7 @@ dateFormat = "2 Jan 2006"
 showSocialLinksHome = true
 
 [fonts]
-siteFont = "Georgia, UnifrakturMaguntia, serif"
+siteFont = "OpenSans"
 
 [social]
 x = 'https://x.com/kara_fort'

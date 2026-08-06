@@ -62,3 +62,8 @@ minify:
   minifyOutput: true
 permalinks:
   posts: /:year/:month/:slug/
+params:
+  custom_css: 
+    - "/css/custom.css"
+  favicon: 
+    - "/favicon.ico"
