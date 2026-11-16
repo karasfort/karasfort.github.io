@@ -40,6 +40,10 @@ Cruz Ibarra, J., **Fort, K. S.,** & Shulman, H. C. (in preparation). A message-b
 
 Holbert, L., Rasheed, H., McKeown, M., **Fort, K. S.,** & Tolan, C. (in preparation) A Scoping Review of Intergenerational Political Socialization Data.
 
+Brown, L. **Fort, K. S.**, Moyer-Gusé, E., Slater, M., Watts, J., Wilson, J.M. (in preparation). Meta-analysis of the persuasive effects of narrative versus non-narrative stimuli.
+*Author order not yet decided.*
+
+
 {{<text-font size="large">}}
 {{<poet>}}
 {{<centered>}}
